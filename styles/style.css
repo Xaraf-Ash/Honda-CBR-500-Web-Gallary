@@ -1,0 +1,33 @@
+              /*--------Css Styles-------*/
+.honda-cbr-500{
+  background-color: #264653;  
+}
+
+.css-grayscale{
+    filter: grayscale(100%);
+}
+
+.css{
+ color:#E76F51;
+}
+.css-color{
+    color:#E76F51 ;
+}
+.navvar-custom{
+    background-color:#264653;
+}
+.color-text{
+    color: #E76F51;
+}
+.fas fa-star filled{
+    color: aqua;
+}
+.fa-star.filled{
+    color: #FFC014;
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
+.css-text{
+    color: #E76F51;
+}    
